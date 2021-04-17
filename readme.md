@@ -29,7 +29,7 @@ https://unsplash.com/photos/jbiInQGY8og
 https://fontawesome.com
 
 
-Mobile icon for menu can be found at:
+    Mobile icon for menu can be found at:
 
 Home icon: https://icons8.com/icons/set/home
 
